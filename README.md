@@ -5,7 +5,7 @@
 
 VERSION : 0.1.0  
 DATE    : 30-06-2025  
-AUTEUR  : AK LOGICIEL – aklogiciel@gmail.com  
+AUTEUR  : AK-LOGICIEL – aklogiciel@gmail.com  
 REPO    : https://github.com/aklogiciel/AK-LOGICIEL
 
 DESCRIPTION
