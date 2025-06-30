@@ -25,7 +25,6 @@ CAPTURES D’ÉCRAN & ILLUSTRATIONS
 <img src="Application-COURSPDF/images/info1.jpg" alt="Info de l'application" width="100"/>
 <img src="Application-COURSPDF/images/info2.jpg" alt="Listes de l'application" width="100"/>
 <img src="Application-COURSPDF/images/cours.jpg" alt="Lecteur de l'application" width="100"/>
-<img src="Application-COURSPDF/images/notification.jpg" alt="Notification de l'application" width="100"/>
 </div>
 
 FONCTIONNALITÉS
