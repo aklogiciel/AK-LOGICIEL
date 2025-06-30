@@ -30,8 +30,8 @@ CAPTURES D’ÉCRAN & ILLUSTRATIONS
 FONCTIONNALITÉS
 ------------------------------------------------------ 
 • Synchronisation temps réel et mode hors-ligne  
-• PDF des qualités
-• Notifications push intelligentes  
+• PDF des qualités  
+• Notifications push intelligentes   
 • Thème clair / sombre automatique  
 
 PRÉREQUIS
