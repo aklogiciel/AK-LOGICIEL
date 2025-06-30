@@ -14,4 +14,7 @@ DESCRIPTION
   - la programmation 
   - le système de gestion de base des données 
   - le CV et lettre de motivation
-  - et tant d'autres...
+  - et tant d'autres...   
+
+CAPTURES D’ÉCRAN & ILLUSTRATIONS
+-----------------------------------------------------
