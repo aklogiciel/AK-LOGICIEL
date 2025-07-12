@@ -19,12 +19,12 @@ DESCRIPTION
 CAPTURES D’ÉCRAN & ILLUSTRATIONS
 -----------------------------------------------------
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-<img src="Application-COURSPDF/images/acceuil.jpg" alt="Accueil de l'application" width="100"/>
-<img src="Application-COURSPDF/images/liste1.jpg" alt="Listes de l'application" width="100"/>
-<img src="Application-COURSPDF/images/liste2.jpg" alt="Listes de l'application" width="100"/>
-<img src="Application-COURSPDF/images/info1.jpg" alt="Info de l'application" width="100"/>
-<img src="Application-COURSPDF/images/info2.jpg" alt="Listes de l'application" width="100"/>
-<img src="Application-COURSPDF/images/cours.jpg" alt="Lecteur de l'application" width="100"/>
+<img src="Android/images/acceuil.jpg" alt="Accueil de l'application" width="100"/>
+<img src="Android/images/liste1.jpg" alt="Listes de l'application" width="100"/>
+<img src="Android/images/liste2.jpg" alt="Listes de l'application" width="100"/>
+<img src="Android/images/info1.jpg" alt="Info de l'application" width="100"/>
+<img src="Android/images/info2.jpg" alt="Listes de l'application" width="100"/>
+<img src="Android/images/cours.jpg" alt="Lecteur de l'application" width="100"/>
 </div>
 
 FONCTIONNALITÉS
