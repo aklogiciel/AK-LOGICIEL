@@ -38,14 +38,15 @@ PRÉREQUIS
 ------------------------------------------------------------------------------
 • Android 10 ou +  
 • ne sera pas adapter à l'écran mais fonctionne aussi avec Android 5,6,7,8,9  
-• IOS 10 ou +
+• Windows 7,8,10,11 x64
 
 INSTALLATION
 ------------------------------------------------------------------------------
 • Téléchargez le dépôt :
      https://github.com/aklogiciel/AK-LOGICIEL  
 • Dézippez le dossier téléchargé  
-• Ouvrez le dossier **Application-COURSPDF** et installez le fichier **Cours** **PDF.apk**
+• Ouvrez le dossier **Android** et installez le fichier **Cours** **PDF.apk** dans votre telephone Android  
+• Ouvrez le dossier **Windows** et installez le fichier **Cours** **PDF.exe** dans votre telephone Android  
 
 LICENCE
 ------------------------------------------------------------------------------
