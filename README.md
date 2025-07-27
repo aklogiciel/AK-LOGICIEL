@@ -46,7 +46,7 @@ INSTALLATION
      https://github.com/aklogiciel/AK-LOGICIEL  
 • Dézippez le dossier téléchargé  
 • Ouvrez le dossier **Android** et installez le fichier **Cours** **PDF.apk** dans votre telephone Android  
-• Ouvrez le dossier **Windows** et installez le fichier **Cours** **PDF.exe** dans votre telephone Android  
+• Ouvrez le dossier **Windows** et installez le fichier **Cours** **PDF.exe** dans votre ordinateur windows  
 
 LICENCE
 ------------------------------------------------------------------------------
